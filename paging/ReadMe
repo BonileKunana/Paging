@@ -1,0 +1,7 @@
+In the main method, I generated the list of random values, these values are used to run the progam
+
+I have printed out the this randomly generated reference string for your convenience
+
+If you are running terminal please include the frame size as an argument
+
+for example: python3 paging.py 3, in this case frame size will be 3
